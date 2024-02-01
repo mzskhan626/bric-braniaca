@@ -5,7 +5,7 @@
 ### Team Members
 
 1. Mohammed Khan
-2. [Team Member 2]
+2. Isabelle Guevara
 3. [Team Member 3]
 
 ## Overview
