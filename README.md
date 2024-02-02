@@ -6,7 +6,7 @@
 
 1. Mohammed Khan
 2. Isabelle Guevara
-3. [Team Member 3]
+3. [Emilia Hickman]
 
 ## Overview
 
